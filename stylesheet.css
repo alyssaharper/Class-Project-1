@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  main {
+    padding: 60px 0;
+  }
+
+header {
+    background-color: darkgreen;
+    width: 100%;
+    border-bottom: tan solid 5px;
+}
+
+ul {
+    text-align: right;
+}
+
+li {
+    color: white;
+    display: inline;
+    list-style-type: none;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
